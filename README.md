@@ -12,7 +12,7 @@ This is a simple To-Do web application built using HTML,CSS and JAVASCRIPT.
 - **Mark as Complete**: Mark tasks as completed when they're done.
 - **Filtering**: Filter tasks based on their completion status (completed, active).
 
-## Technologies Used
+## Technologies Used 
 - [HTML/CSS/JavaScript]: Frontend development.
  
 ## Installation  
