@@ -14,7 +14,10 @@ This is a simple To-Do web application built using HTML,CSS and JAVASCRIPT.
 
 ## Technologies Used
 - [HTML/CSS/JavaScript]: Frontend development.
-
+ 
+## Installation  
+1. Clone the repository: `git clone https://github.com/aaakumari/calculator.git`
+2. Open `index.html` in your web browser.
 
 ## Usage
 1. Open the application in your web browser.
