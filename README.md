@@ -26,4 +26,10 @@ This is a simple To-Do web application built using HTML,CSS and JAVASCRIPT.
 4. Mark tasks as completed when finished.
 5. Use filtering options to view active or completed tasks.
 
+## Screenshot
+![TO DO 1](https://github.com/aaakumari/OIBSIP-TASKNO-3/assets/170171540/845bbf7d-de20-4f23-b39b-4374d1b90b10)
+![TO DO 2](https://github.com/aaakumari/OIBSIP-TASKNO-3/assets/170171540/1331ec2d-1e15-4d60-b0e3-40bb6fe1ea56)
+![TO DO 3](https://github.com/aaakumari/OIBSIP-TASKNO-3/assets/170171540/b9dba8c5-16b4-4e9d-93f2-5a7c67374b9b)
+
+
 
